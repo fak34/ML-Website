@@ -1,0 +1,192 @@
+/* Custom Styles for Machine Learning at Cornell */
+
+a {
+  color:#222222;
+}
+
+.wrapper, .row {
+   height: 100%;
+   margin-left:0;
+   margin-right:0;
+}
+
+.wrapper:before, .wrapper:after,
+.column:before, .column:after {
+    content: "";
+    display: table;
+}
+
+.wrapper:after,
+.column:after {
+    clear: both;
+}
+
+.faculty-member {
+  height: 215px;
+}
+
+.column {
+    height: 100%;
+    overflow: auto;
+    *zoom:1;
+}
+
+.column .padding {
+    padding: 20px;
+}
+
+.box {
+  	bottom: 0; /* increase for footer use */
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    background-image:url("../img/cover.jpg");
+    background-size:cover;
+    background-attachment:fixed;
+}
+
+.divider {
+	margin-top:32px;
+}
+
+#main {
+    background-color: #fefefe;
+    padding-bottom: 3%;
+}
+#main .img-circle {
+  margin-top:10px;
+  height:125px;
+  width:125px;
+  border:solid 1px #ccc;
+}
+
+#main .img-circle:hover {
+  border: solid 3px #CCC;
+  -moz-box-shadow: 1px 1px 5px #999;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 5px #999;
+}
+
+#main .img-no-hover:hover {
+  border: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+}
+
+#main a {
+  text-decoration: none;
+}
+
+#main a:hover, a:active {
+  color:#b31b1b;
+}
+
+#sidebar {
+  background-color: #b31b1b;
+  text-align: center;
+}
+
+.nav-main a {
+  color:#fefefe;
+  background-color:transparent;
+	text-shadow:1px 0 1px #888888;
+}
+
+.nav-main a:hover {
+  background-color: #ffffff;
+  color: #222222;
+  opacity: 0.7;
+}
+
+#sidebar-footer {
+  position:absolute;
+  bottom:5px;
+  color: #fefefe;
+  margin-right: 15px;
+}
+
+
+/* center and adjust the sidebar contents on smaller devices */
+@media (max-width: 768px) {
+  #sidebar {
+    margin-top: 0px;
+    height:35%;
+    overflow: none;
+  }
+
+  #sidebar li {
+    width: 20%;
+    float:left;
+  }
+
+  #sidebar a {
+    padding:0px;
+  }
+}
+
+
+/* bootstrap overrides */
+
+h1,h2,h3 {
+   font-weight:800;
+   font-family:'Open Sans',arial,sans-serif;
+}
+
+.label-default {
+  background-color:#dddddd;
+}
+.page-header {
+  margin-top: 25px;
+  padding-top: 9px;
+  border-top:1px solid #eeeeee;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:2px;
+}
+
+.full {
+    width: 100%;
+}
+
+.btn-primary {
+  color: #103351;
+  background-color: #ffffff;
+  border-color: #103351;
+  min-width: 100px;
+  border-radius: 0px;
+}
+
+.btn-primary:hover{
+  background-color: #103351;
+  color:#ffffff;
+}
+
+.active {
+  background-color: #fefefe;
+}
+
+.active h5 {
+  color: #b31b1b;
+}
+
+#course {
+  height:250px;
+}
+
+.apply-pos h4 {
+  height:30px;
+}
+
+.apply-fac h5 {
+  height: 75px;
+}
+
+.product {
+  height: 300px;
+}
+
+.product h4 {
+  height: 40px;
+}
