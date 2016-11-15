@@ -1,0 +1,13 @@
+Product \t Description \t Link \t Image
+POEM \t Software for batch learning from bandit feedback via counterfactual risk minimization from Thorsten Joachim's Lab \t http://www.cs.cornell.edu/~adith/POEM/index.html \t ../img/faculty/thorstenjoachims.jpg
+SVM-struct \t A software package for predicting complex outputs (e.g. trees, alignments) with Support Vector Machines from Thorsten Joachim's Lab \t http://svmlight.joachims.org/svm_struct.html \t ../img/faculty/thorstenjoachims.jpg
+SVM-light \t A software package for Support Vector Learning from Thorsten Joachim's Lab \t http://svmlight.joachims.org/ \t ../img/faculty/thorstenjoachims.jpg
+Dynamic Ranking \t Software for Dynamic Ranked Retrieval from Thorsten Joachim's Lab \t http://dynamicranking.joachims.org/ \t ../img/faculty/thorstenjoachims.jpg
+Spectral Graph Transducer (SGT) \t Software for transductive learning via spectral graph partitioning from Thorsten Joachim's Lab \t http://sgt.joachims.org/ \t ../img/faculty/thorstenjoachims.jpg
+PeerGrading \t Online Peer Grading Service and Software \t http://peergrading.org/ \t ../img/faculty/thorstenjoachims.jpg
+LME \t Logistic Markov Embedding (LME) software developed in Thorsten Joachim's Lab \t http://www.cs.cornell.edu/~shuochen/lme/lme_page.html \t ../img/faculty/thorstenjoachims.jpg
+BayesOpt \t Bayesian Optimization for Hyper Parameter Tuning in MATLAB \t https://bitbucket.org/mlcircus/bayesopt.m \t ../img/faculty/kilianweinberger.jpg
+mSDA \t marginalized Stacked Denoising Autoencoder (mSDA) [MATLAB, PYTHON] \t http://www.cse.wustl.edu/~kilian/code/files/mSDA.zip \t ../img/faculty/kilianweinberger.jpg
+LMNN2.5.1 \t Latest version of LMNN (includes non-linear gradient boosted LMNN). \t https://bitbucket.org/mlcircus/lmnn/downloads \t ../img/faculty/kilianweinberger.jpg
+SVEN \t Support Vector Elastic Net (possibly the fastest Elastic Net / Lasso solver) \t https://bitbucket.org/mlcircus/sven \t ../img/faculty/kilianweinberger.jpg
+CORD \t A software package for high dimensional latent variable or block covariance structure-type variable-clustering \t https://cran.r-project.org/web/packages/cord/index.html \t ../img/faculty/florentinabunea.jpg
