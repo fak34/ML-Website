@@ -95,6 +95,11 @@
                 <br><br>
                 <h5>Cognitive Science</h5>
               </a>
+	      <a class="col-sm-4" href="http://www.mlim-cornell.club/" target="_blank">
+                <img src="img/related/mlim.jpg" class="img-respsonsive img-circle">
+                <br><br>
+                <h5>Machine Learning in Medicine</h5>
+              </a>
               <a class="col-sm-4" href="http://nlp.cornell.edu/" target="_blank">
                 <img src="img/related/nlp.jpg" class="img-respsonsive img-circle">
                 <br><br>
